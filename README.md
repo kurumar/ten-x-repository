@@ -1,5 +1,5 @@
 # Random Number
 
-Today's number is: 50
+Today's number is: 6
 
-Commit 5 of 9
+Commit 6 of 9
